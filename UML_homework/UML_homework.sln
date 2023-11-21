@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UML_homework", "UML_homework\UML_homework.csproj", "{090E5B27-3FEC-4876-95B7-083073567A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{9651A46B-FFE3-49BC-84BB-0C710929A73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{1EF0773E-CC3C-4124-B580-7DB8D59DBA98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{090E5B27-3FEC-4876-95B7-083073567A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090E5B27-3FEC-4876-95B7-083073567A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090E5B27-3FEC-4876-95B7-083073567A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090E5B27-3FEC-4876-95B7-083073567A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9651A46B-FFE3-49BC-84BB-0C710929A73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9651A46B-FFE3-49BC-84BB-0C710929A73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9651A46B-FFE3-49BC-84BB-0C710929A73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9651A46B-FFE3-49BC-84BB-0C710929A73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF0773E-CC3C-4124-B580-7DB8D59DBA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF0773E-CC3C-4124-B580-7DB8D59DBA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF0773E-CC3C-4124-B580-7DB8D59DBA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF0773E-CC3C-4124-B580-7DB8D59DBA98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1954BFA2-8E87-4734-854B-33FA0593AB30}
+	EndGlobalSection
+EndGlobal
